@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>Todos</title>
+	</head>
+	<body>
+			<input></input>
+			<ul>
+         <li>watch lesson</li>
+         <li>do homework</li>
+			</ul>
+	</body>
+</html>
